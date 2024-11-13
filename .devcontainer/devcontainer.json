@@ -20,8 +20,8 @@
     ],
     "settings": {
         "editor.formatOnSave": true,
-        //"python.pythonPath": "/usr/local/bin/python",
-        //"python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.pythonPath": "/usr/local/bin/python",
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
         //"python.languageServer": "Pylance",
         //"python.autoComplete.addBrackets": true,
         //"python.analysis.autoImportCompletions": true,
@@ -31,9 +31,9 @@
         //"python.analysis.diagnosticMode": "workspace",
         //"python.sortImports": true,
         //"python.sortImports.args": [
-            // isort recommends pyproject.toml
-            // "--settings-path=${workspaceFolder}/pyproject.toml",
-            //"--settings-path=${workspaceFolder}/setup.cfg"
+        // isort recommends pyproject.toml
+        // "--settings-path=${workspaceFolder}/pyproject.toml",
+        //"--settings-path=${workspaceFolder}/setup.cfg"
         //],
         //"python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
         //"python.formatting.blackPath": "/usr/local/py-utils/bin/black",
