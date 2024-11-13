@@ -1,0 +1,3 @@
+[submodule "pypro"]
+	path = pypro
+	url = https://github.com/ptarau/pypro.git
